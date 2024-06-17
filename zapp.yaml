@@ -2,7 +2,7 @@ name: mort-app
 description: Nelson example  
 version: 3.0.0
 author:
-  name: Nelson Lopez
+  name: Mark Neft
 
 profiles:
   - name: dbb-userbuild
